@@ -1,0 +1,10 @@
+{
+    "theme_color": "#304fff",
+    "background_color": "#f8f8f8",
+    "display": "standalone",
+    "scope": "/app",
+    "start_url": "/",
+    "app_name": "Michael Depp",
+    "short_name": "Michael D",
+    "description": "Michael Depp"
+}
